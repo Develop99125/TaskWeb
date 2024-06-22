@@ -1,4 +1,4 @@
-# База данных (PostgresSQL)
+# База данных (PostgreSQL)
 Имя базы данных - "photoWeb".
 
 Дамп базы данных - файл "photoWeb_dump.sql".
